@@ -39,7 +39,7 @@ const Footer = () => {
             },
           }}
         >
-          All Rights Reserved &copy;
+          All Riots Reserved &copy;
         </Typography>
       </Box>
     </>
